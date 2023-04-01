@@ -8,4 +8,4 @@ I am a computer science professor in the [Data Science Laboratory](https://dot-l
 - :page_facing_up: [I wrote over 80 research papers](https://lemire.me/en/#publications) on software issues, cited thousands of times
 - 📖 I am editor of the [Software: Practice and Experience](https://onlinelibrary.wiley.com/journal/1097024x) journal (Wiley); it was founded in 1971.
 
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lemire&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Lemire's github stats" />
