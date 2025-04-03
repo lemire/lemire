@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a computer science professor in the [Data Science Laboratory](https://dot-lab.teluq.ca/en/) at the Université du Québec (TÉLUQ). :canada:
+I am a computer science professor at the Université du Québec (TÉLUQ). :canada:
 
 - :newspaper: I write about software performance weekly [on my blog](https://lemire.me/blog/).
 - :school: Among world's top 2% scientists ([Stanford University/Elsevier ranking, 2024](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7)).
