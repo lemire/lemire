@@ -5,6 +5,7 @@ I am a computer science professor at the Université du Québec. :canada:
 - :newspaper: I write about software performance weekly [on my blog](https://lemire.me/blog/).
 - :school: Among world's top 2% scientists ([Stanford University/Elsevier ranking, 2025](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8)).
 - :tv: I gave a [best voted talk at QCon San Francisco](https://www.youtube.com/watch?v=wlvKAT7SZIQ) on JSON parsing.
+- 🎥 We have [a CppCon 2025 talk on super fast JSON processing using C++26 reflection](https://www.youtube.com/watch?v=Mcgk3CxHYMs).
 - 🗺️ My software and algorithms are in most browsers and many standard libraries.
 - :page_facing_up: [I wrote over 100 research papers](https://lemire.me/en/#publications) including over 60 journal articles.
 - 📖 I am editor of the [Software: Practice and Experience](https://onlinelibrary.wiley.com/journal/1097024x) journal (Wiley); it was founded in 1971.
