@@ -11,4 +11,4 @@ I am a computer science professor at the Université du Québec. :canada:
 - 📖 I am editor of the [Software: Practice and Experience](https://onlinelibrary.wiley.com/journal/1097024x) journal (Wiley); it was founded in 1971.
 - 📎 [On‐demand JSON: A better way to parse documents?](https://onlinelibrary.wiley.com/doi/10.1002/spe.3313) was the most read article of the last 5 years at SPE (2024).
 - 📎 [Parsing millions of URLs per second](https://onlinelibrary.wiley.com/doi/10.1002/spe.3296) was the most read article of the last 5 years at SPE (2025).
-- 📘 I have written many books, my latest books: [Mastering Programming: From Testing to Performance in Go](https://www.amazon.com/Mastering-Programming-Testing-Performance-Go/dp/B0FMPGSWR5/) and [Faster Than You Think: Essays on Thinking Better and Building Faster](https://www.amazon.com/dp/B0HDYG8FVK))
+- 📘 I have written many books, my latest books: [Mastering Programming: From Testing to Performance in Go](https://www.amazon.com/Mastering-Programming-Testing-Performance-Go/dp/B0FMPGSWR5/) and [Faster Than You Think: Essays on Thinking Better and Building Faster](https://www.amazon.com/dp/B0HDYG8FVK)
